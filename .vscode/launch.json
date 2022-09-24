@@ -10,7 +10,7 @@
             "request": "launch",
             "preLaunchTask": "build",
             // If you have changed target frameworks, make sure to update the program path.
-            "program": "${workspaceFolder}/tsql-csharp/bin/Debug/netcoreapp3.1/tsql-csharp.dll",
+            "program": "${workspaceFolder}/tsql-csharp/bin/Debug/netcoreapp6.0/tsql-csharp.dll",
             "args": [],
             "cwd": "${workspaceFolder}/tsql-csharp",
             // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
