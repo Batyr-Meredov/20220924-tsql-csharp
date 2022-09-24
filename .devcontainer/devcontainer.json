@@ -30,7 +30,8 @@
 			"extensions": [
 				"ms-dotnettools.csharp",
 				"ms-mssql.mssql",
-				"jmrog.vscode-nuget-package-manager"
+				"jmrog.vscode-nuget-package-manager",
+				"eamodio.gitlens"
 			]
 		}
 	},
